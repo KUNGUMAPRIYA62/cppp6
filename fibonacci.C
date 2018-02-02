@@ -6,7 +6,7 @@ printf("enter number of terms:");
 scanf("%d",&terms);
 a=0;
 b=1;
-c=a+b;
+c=0;
 printf("fibonacci terms:");
 for(i=1;i<=terms;i++)
 {
